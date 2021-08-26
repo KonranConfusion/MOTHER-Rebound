@@ -15,4 +15,4 @@ Confused
 AvoidThisLloyd
 Minty
 ___________________________________________________________________
-pp fard haha xd lloyd and ness were here don't die pp fard easports
+(I will remove NessButGit if they pull this shit again)

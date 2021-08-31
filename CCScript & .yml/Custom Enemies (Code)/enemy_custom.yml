@@ -1,0 +1,95 @@
+(PLEASE_REPLACE_WITH_VALID_NUMBER):
+  '"The" Flag': 'true'
+  Action 1: 216
+  Action 1 Argument: 0
+  Action 2: 216
+  Action 2 Argument: 0
+  Action 3: 226
+  Action 3 Argument: 0
+  Action 4: 234
+  Action 4 Argument: 0
+  Action Order: 1
+  Boss Flag: 'false'
+  Death Sound: boss
+  Death Text Pointer: data_56.l_0xef6d83
+  Defense: 150
+  Encounter Text Pointer: data_57.l_0xef78b8
+  Experience points: 19163
+  Final Action: 0
+  Final Action Argument: 0
+  Fire vulnerability: 20%
+  Flash vulnerability: 100%
+  Freeze vulnerability: 70%
+  Gender: male 
+  Guts: 5
+  HP: 600
+  Hypnosis/Brainshock vulnerability: 50%
+  Initial Status: normal
+  Item Dropped: (REPLACE_WITH_ITEM_NAMED_OVERSEEING_EYE)
+  Item Rarity: 128/128
+  Level: 53
+  Luck: 5
+  Max Call: 0
+  Mirror Success Rate: 0
+  Miss Rate: 99
+  Money: 1555
+  Movement pattern: 28
+  Music: 85
+  Name: Medjed The Smiter
+  Offense: 106
+  Overworld Sprite: 322
+  PP: 150
+  Paralysis vulnerability: 50%
+  Row: 1
+  Run Flag: 'false'
+  Speed: 15
+  Type: normal
+  Unknown: 2
+  
+ (PLEASE_REPLACE_WITH_VALID_NUMBER):
+  '"The" Flag': 'false'
+  Action 1: 216
+  Action 1 Argument: 0
+  Action 2: 216
+  Action 2 Argument: 0
+  Action 3: 226
+  Action 3 Argument: 0
+  Action 4: 234
+  Action 4 Argument: 0
+  Action Order: 1
+  Boss Flag: 'true'
+  Death Sound: boss
+  Death Text Pointer: data_56.l_0xef6d83
+  Defense: 150
+  Encounter Text Pointer: data_57.l_0xef78b8
+  Experience points: 19163
+  Final Action: 0
+  Final Action Argument: 0
+  Fire vulnerability: 20%
+  Flash vulnerability: 100%
+  Freeze vulnerability: 70%
+  Gender: male 
+  Guts: 5
+  HP: 573
+  Hypnosis/Brainshock vulnerability: 50%
+  Initial Status: normal
+  Item Dropped: (REPLACE WITH ANYTHING)
+  Item Rarity: 128/128
+  Level: 53
+  Luck: 5
+  Max Call: 0
+  Mirror Success Rate: 0
+  Miss Rate: 99
+  Money: 1555
+  Movement pattern: 28
+  Music: 95
+  Name: Hapi God Of The Nile
+  Offense: 106
+  Overworld Sprite: 322
+  PP: 150
+  Paralysis vulnerability: 50%
+  Row: 1
+  Run Flag: 'false'
+  Speed: 15
+  Type: normal
+  Unknown: 2

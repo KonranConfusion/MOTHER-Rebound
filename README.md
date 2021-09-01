@@ -8,5 +8,3 @@ ___________________________________________________________________
 By Mr. Ness, Sbuppy, PaintBucketCard, Atlantixa, IvyWolf, EGO_2, Confused, AvoidThisLloyd, and Minty.
 ___________________________________________________________________
 (I will remove NessTheGit if they pull this shit again)
-
-don't check this into the main branch - cass

@@ -1,0 +1,200 @@
+so, if you want me to move any of the sprites around, so they're in different spots, just like mention it on the team psyonics chat or smthn.
+there's also a chance i messed stuff up. it's probably just best to leave it be if i did.
+ONETT
+     we really don't need to do every npc here. it's night time in the hack, so prolly not that many npcs would be out.
+     besides vauge murmurings about ness' dissapearance, and the sharks coming back, led by a mysterious robotic leader, onett is it's usual happy self. it's night time, so lean into those sorta vibes.
+
+text pointer       npc  description
+data_27.l_0xc74475 127- kid guarding the treehouse
+data_22.l_0xc69fa9 130- hint mole
+data_28.l_0xc747ed 129- kid outside library
+data_28.l_0xc74a3d 132- guy at the end of the street. i forget what his deal was lol.
+data_28.l_0xc749c7 131- guy next to the burger shop
+data_19.l_0xc65a18 134- suit guy about 40 feet to the right of the last guy.
+data_19.l_0xc65c89 138- a dog.
+data_19.l_0xc65c01 137- t h e o l d l a d y.
+data_22.l_0xc6a755 191- the sign for the hotel
+data_19.l_0xc65ae9 136- an npc down the road from the last one. i forget thier deal, to.
+data_19.l_0xc65a4c 135- a random guy outside the town hall. i'm really not remembering people's deals well today, am i?
+data_28.l_0xc74ba9 163- an orange kid lookin' weirdo outside the arcade.
+data_19.l_0xc659c9 133- the trashy kid outside the hospital. i think his dialog said he was working with the sharks in og eb.
+data_19.l_0xc65cec 139- the guy who sells you the house. you should prolly run whatever you plan to do with this guy by soomeone before putting it in.
+data_19.l_0xc65e08 140- i think it's supposed to be the same guy for after you buy the house.
+data_19.l_0xc65e46 141- the trumpet guy on the hill (saxaphone. whatever)
+
+     the police should be replaced with sharks. or if you come up with a better idea, go for it.
+data_20.l_0xc67bb9 166- little kid on the far side of town. i also forget what their deal is
+data_20.l_0xc67c0c 167- another rando near the fence that blocks off twoson.
+data_20.l_0xc66002 144- a police man gaurding the entrance to twoson.
+data_20.l_0xc65f5c 145- the other police man gaurding the route to twoson
+
+     objects
+182- carl's mailbox
+168- a street light
+173- another street light
+181- a random house's mailbox
+184- W-Would you believe it? it's another mail box!
+174- a street lamp
+169- street lamp
+170- street lamp #5
+171- street lamp
+172- gerard the completely identical street lamp
+177- the next four are roadblocks to twoson. if you're changing these sprites, make it something wide, so nick can't just slip through to twoson.
+178- 
+179- 
+180- 
+193- the next five are clouds near the meteor crash. (destroyed astro)
+194-
+195-
+196-
+197-
+
+     probably don't edit these, unless you have a good idea for them
+142- a shark outside the arcade
+143- the other shark outside the arcade
+128- one of the weird guys outside of the shack that was raided by the sharks
+162- the other guy
+125- that guy who finds the mani mani staue in eb.
+192- his sign
+183- nick's mailbox
+147- the sprite you can use the key on to go to giant step?
+della at the top of the hill
+
+completed, more or less
+187- one of the roadblocks to the top of the hill.
+188- the other road block to the top of the hill.
+201- the cop car at the top of the hill.
+198- astro at the top of the hill
+165- the starman over astro's body. (the leader)
+164- a shark. can't talk to him, bc he's at the top of the hill.
+157- one of the sharks gaurding the top of the hill.
+158- another shark gaurding the top of the hill.
+159- same story, different shark.
+148- nick's mom for the going to bed scene.
+160- a shark hanging out near the top of the hill.
+156- another shark.
+149- the EXPLOSIONS ARE WICKED!!! kid.
+152- an old guy. not really much to say about it.
+151- a shark gaurding the path to onett.
+150- same deal as the last guy. different dialog.
+155- another shark. i didn't edit his dialog, but it really didn't need to be changed.
+200- a cop car
+154- the guy that stole the cop car.
+153- another shark. i don't think i edited his dialog either.
+
+     inside houses
+data_15.l_0xc5ef3e 44- carl's dad. his npc kinda has a lot so it's prolly best to leave it be. it'll prolly take care of it at some point.
+data_29.l_0xc76663 45- carl's mom. i think their dialog is different after they swat the sheilding unit, and they go away after sunrise. it's probably better to let me do this one to.
+data_29.l_0xc7678a 48- the guy who buys pokey's house at the end of the game. maybe they can be living with carl, and his parents?
+data_28.l_0xc75909 21- the phone the dad calls you on the first night in eb.
+data_28.l_0xc75c33 19- carl on the couch
+data_28.l_0xc763a3 33- one of the food trading people. this isn't where to look for editing their items. it's better to just search up what items the npc sells in the store_table.yml. (although i'd rather just balance that stuff)
+data_20.l_0xc6653b 36- franky at the end of the game, working at the burger joint. i doubt this will be used.
+data_28.l_0xc763e9 34- i forget honestly? just someone in the burger shop.
+data_28.l_0xc7640b 35- another burger shop person.
+$0 38- franky next to a seat in the burger shop. i forget when in the game this was used. probably at the end? i doubt this guy will be used either.
+data_22.l_0xc6971e 37- another lady in the burger shop.
+data_28.l_0xc74e89 8- one of the item sellers. 
+data_28.l_0xc74e83 9- another item seller.
+data_28.l_0xc74e8f 10- a random guy hanging out in the drug store.
+data_22.l_0xc69928 11- a dog that (i think) gave you hints in og eb.
+data_26.l_0xc72709 78- a guy in the town hall lobby. warning: i really forget the town hall stuff. you might have to look up the dialog for these guys first. considering it's night, maybe there would only be a few people here.
+data_26.l_0xc72910 83- it looks like hes a guy working there.
+data_26.l_0xc7298c 84- someone sitting in the same room as the first guy.
+data_26.l_0xc72765 79- another person working there.
+data_26.l_0xc727a8 80- a third person working there.
+data_26.l_0xc727cf 81- an old man
+data_26.l_0xc72822 82- an old lady
+data_26.l_0xc729ff 85- the lady working in the room leading to the mayor(pirkle?)'s room.
+data_27.l_0xc72af8 86- mayor pirkle. (might be remebering the name wrong)
+data_27.l_0xc72f7b 87- the guy standing next to him.
+data_15.l_0xc5f828 88- a police officer in the same room.
+data_22.l_0xc6a286 112- a lady in the hospital next to the healer.
+data_27.l_0xc7388e 114- a nurse. not sure this one needs editing.
+data_27.l_0xc738b6 118- an old lady wandering the halls of the hospital.
+data_20.l_0xc67a1c 115- a kid in a hospital room. i really don't remeber these, either.
+data_20.l_0xc67add 117- a lady in the hospital
+data_20.l_0xc67aa0 116- a kid in the hospital.
+data_29.l_0xc7689e 59- a greeter for the onett hotel. they probably won't be there, and if they are, they wouldn't need changing.
+data_37.l_0xc842f9 64- someone working for the hotel. cahnces are, thier dialog is like "good morning" even though it's the dead of night. like, dude, keep up with the times. happy happyism is out. giygas worship is in.
+data_29.l_0xc768f4 62- a random person at the hotel
+data_29.l_0xc76924 63- another random person at the hotel
+data_29.l_0xc7695f 65- a lady in a hotel room.
+data_29.l_0xc76980 66- a guy in the same hotel room. idk if they're both in the room at the same time.
+data_28.l_0xc74cf7 3- a shark in the arcade playing video games.
+data_28.l_0xc74e14 6- a random kid in the arcade.
+data_28.l_0xc74d5e 4- a shark in the arcade (2nd floor)
+data_28.l_0xc74d9f 5- another one
+data_22.l_0xc6a666 7- a third one
+data_29.l_0xc7699e 67- these next entries are police. they will probabaly be either removed, or replaced by sharks, or talking about how they were beat up, and robbed by the sharks.
+data_29.l_0xc76b87 68-
+data_29.l_0xc76c29 69-
+data_29.l_0xc76ca1 70-
+data_29.l_0xc7699e 71-
+data_29.l_0xc76e92 72- a random guy hanging out in the police station
+data_15.l_0xc5f914 73- these next few are the police for the captain strong fight. they will probably not be used.
+data_15.l_0xc5f984 74-
+data_15.l_0xc5f9dd 75-
+data_15.l_0xc5fa72 76-
+data_29.l_0xc76ec5 77-
+data_28.l_0xc76443 40- the chef in the bakery
+data_28.l_0xc76449 41- the vegetable soup lady
+data_29.l_0xc7661b 42- another lady in the bakery
+data_22.l_0xc69651 43- the last lady in the bakery
+
+     completed inside houses
+47- della before she goes to the hill.
+46- the swatted sheild unit.
+22- the door opening sprite
+17- carl standing there for the cutscene after the knocking.
+16- lady napping
+15- nick's mom.
+14- nick's mom. (again)
+18- lady walking around the house when carl is knocking on the door
+12- an atm machine
+13- a payphone
+110- the onett nurse
+111- the onett healer
+113- the doctor
+58- a hotel runner.
+60- the hotel phone.
+61- the hotel atm machine.
+49- the following entries are just window shades.
+50-
+51-
+54-
+56-
+57-
+24-
+23-
+
+     signs, or doors (most of these shouldn't need changing unless you feel like it)
+data_52.l_0xc9b20e- don't edit this. i think it's the generic knock that plays when eveyone's hiding at the end of the game.
+data_38.l_0xc86511- the sign next to nick's house.
+data_38.l_0xc86419- the sign next to the shack in front of the giant steps cave.
+data_38.l_0xc86431- the sign from just a bit up the path from that. (as in, closer to onett)
+data_51.l_0xc9a1b6- the door to the large house on the northwest side of onett.
+data_38.l_0xc863da- i think it was a sign saying not to trample the flowers? next to the house on the next line.
+data_51.l_0xc9a270- a house just down the street from the burger shop.
+data_39.l_0xc87b70- another sign right next to the one from 2 lines ago.
+data_38.l_0xc864e6- a sign outside the library.
+data_39.l_0xc87bf5- a sign about 80 feet to the right of the burger shop.
+data_39.l_0xc87c57- the sign at the end of the road.
+data_51.l_0xc9a336- a random house with different text for being knocked on? the door just teleports to the same spot, so i'm guessing this house was put here soley fore some dialog on the door.
+data_51.l_0xc9a2ac- another door with custom text.
+data_39.l_0xc87b9e- the house next to the hotel.
+data_51.l_0xc9a432- the house next to that.
+data_38.l_0xc864a7- a sign down the street from the hotel.
+data_39.l_0xc87b9e- a half covered sign. (half behind the hospital)
+data_38.l_0xc86467- the sign outside the town hall.
+data_39.l_0xc87bcf- a sign towards the back of the city hall. (still outside it, though)
+data_38.l_0xc86483- a sign in the area a few buildings behind the bakery.
+data_39.l_0xc87c1d- ANOTHER sign. (onett has a lot of those, doesen't it)
+data_50.l_0xc99b6a- the text on the house the npc sells ness in eb. not sure why this house has text attached to it's door.
+data_38.l_0xc8634c- the sign outside the house for sale.
+data_38.l_0xc86399- a sign across from the hospital.
+data_51.l_0xc9a306- the text on the pizza shop.
+data_50.l_0xc99a93- the text for the police station. (for if we decide we don't want to come up with stuff for the inside of the police station)
+data_51.l_0xc9a381- another house. towards the bottom right of onett.
+data_38.l_0xc8652a- a random sign to the bottom right of onett.
+data_38.l_0xc86477- a sign at the front of onett.

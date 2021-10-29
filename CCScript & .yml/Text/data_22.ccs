@@ -94,34 +94,32 @@ l_0xc6899a:
 
 l_0xc689fb:
     "@Hi, it's me--Tony." next
-    "@I'm collecting player's names for a school project." next
+    "@You fucking dumbass!" next
+    "@I'm collecting player's names for a. . . Umm. . . Project." next
     "@You know, players just like you!" next
-    "@That's right, you--the one holding the controller." next
-    "@Would you register your name, please?" next
-    "@Don't spell your name wrong![03]{window_closeall}[1F 07 02]{pause(30)}{music(2)}[1F 41 03]{window_open(1)}@Thanks, game player!" next
+    "@That's right, you--the one playing this ROM hack of EarthBound on your 2013, Windows 7 computer." next
+    "@Would you register your name?" next
+    "@Don't spell your name wrong or you'll regret it![03]{window_closeall}[1F 07 02]{pause(30)}{music(2)}[1F 41 03]{window_open(1)}@Thanks, game player!" next
     "@Thank you very much!" next
-    "@Is this correct?[03]{window_closeall}[1F 41 03][1F 07 02]{pause(30)}{window_open(1)}@I apologize for any trouble this may have caused you." next
-    "@Don't put my friend [1C 02 03] in any dangerous situations, okay?" next
-    "@I worry about him." next
-    "@I really do..." next
-    "@Well, talk to you later..." next
+    "@Is this correct or some shitty gamer tag?[03]{window_closeall}[1F 41 03][1F 07 02]{pause(30)}{window_open(1)}@I don't really care if this ruined your speedrun." next
+    "@Don't put my friend [1C 02 03] in any dangerous situations." next
+    "@To be honest, I'm not worried about him." next
+    "@He'll be fine." next
+    "@He did it before." next
+    "@Well, talk to you some other time..." next
     "@...[1C 02 03]..." next
     "{counter(3)}" call(data_33.l_0xc7dc7f) "[1B 02 {e(l_0xc68b7d)}]@It seems like you're not feeling well..." next
-    "@Get better soon..." next
+    "@Talk to me when you can actually play the fucking game..." next
     goto(l_0xc68b7d)
 
 l_0xc68b7d:
-    "@I hope that I can see you again when you are feeling up to it..." next
+    "@Damn, even my grandmother plays better than you." next
     "@From{pause(15)} T-{pause(10)}O-{pause(10)}N-{pause(10)}Y..." next
     "@You got that?" next
-    "@Well I've been on the phone too long..." next
-    "@Gotta go..." next
-    "@Good luck..." next
-    "@Take care..." next
-    "@So long..." next
-    "@This time, I'm really gonna hang up." next
-    "@Goodbye." next
-    "@*Beeeeep*{wait}{window_closeall}{sound(11)}{set(flag 539)}{music_resume}[1F 41 06]" eob
+    "@Well I've been on the phone too long, the phone bill will be through the fucking ROOF!!" next
+    "@I'm gonna hang up." next
+    "@So, fucking leave!" next
+    "@. . .What a fucking dumba- *Beeeeep*{wait}{window_closeall}{sound(11)}{set(flag 539)}{music_resume}[1F 41 06]" eob
 
 l_0xc68c3f:
     "{window_open(1)}@....." next
@@ -132,8 +130,29 @@ l_0xc68c3f:
     "{pause(60)}" linebreak
     "@...[1C 02 01]..." next
     "@I'm a friend who you have never met before..." next
-    "@My name is [1C 02 02]." next
-    next
+    "@My name is [1C 02 01]." next
+    "@Just kidding you dumbass."next
+    "@I'm [1C 02 01]."next
+    "@Well, I guess that wasn't really a funny joke."next
+    "@Hmmm..."next
+    "@What is funny?"next
+    "@What's that, you want me to stop?"next
+    "@I'm not done."next
+    "@Some say that Monty Python was the first funny comedy group."next
+    "@I have nothing against Monty Python."next
+    "@Infact, I love Life of Brian."next
+    "@Very funny"next
+    "@But, would you consider it the best comedy movie?"next
+    "@Hmmm..."next
+    "@Hmmm...."next
+    "@Hmmm....."next
+    "@Hmmm......"next
+    "@(Writer's note: I'm tired, I don't want to do anymore lines of text)"next
+    "@(I'm like staring at a screen and writing text)"next
+    "@(What am I doing with my life?)"next
+    "@(<Do something useful with your life>.)"next
+    "@(Except I'm writing text from an EarthBound hack and this text will probably never get used.)"next
+    "@(If it does. ROM Hacking is...)"next
     "{pause(60)}" linebreak
     "@Can you hear me calling you?" next
     "@I am [1C 02 02]..." next

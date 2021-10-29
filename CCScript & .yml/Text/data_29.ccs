@@ -78,7 +78,7 @@ l_0xc7699e:
 
 l_0xc76a1f:
     "@Why is the road to Twoson closed?{pause(20)}  An emergency,{pause(10)} of course." next
-    "@At times like this,{pause(15)} kids like you should be playing Nintendo games." next
+    "@At times like this,{pause(15)} kids like you should be playing Final Fantasy VIII Remastered." next
     "@Anyway,{pause(15)} are you sure you want to go to Twoson?" linebreak
     "[19 02]Yes[02] [19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc76ad6)} {e(l_0xc76aa7)}]" goto(l_0xc76aa7)
 

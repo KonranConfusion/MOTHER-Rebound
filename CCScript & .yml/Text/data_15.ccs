@@ -51,6 +51,9 @@ l_0xc5eb0b:
 l_0xc5edd4:
     "@I hate to go over it again,{pause(15)} but I guess I'll start over..." next
     "@We'll be here 'til sunrise!" next
+    "@As puishment for your mistake." next
+    "@I'll set the game's font to Mr. Saturn!" next
+    "{font_saturn}@Fuck you asshole!" next
     goto(l_0xc5eb0b)
 
 l_0xc5ee13:

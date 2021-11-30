@@ -57,23 +57,23 @@ l_0xc74a3d:
     "[06 0C 00 {e(l_0xc74ad6)}][06 0D 00 {e(l_0xc74ad6)}]" goto(l_0xc74a4b)
 
 l_0xc74a4b:
-    "@A girl named [1C 01 1E] lives in Twoson." next
-    "@Her mother runs a preschool out of their home." next
-    "@I can't remember the name of the school,{pause(15)} but I heard" linebreak
-    "  [1C 01 1E]'s really special." next
-    "@Why is she special?" next
-    "@I forgot to ask.{pause(15)}  Oh, well..." end
+    "@I heard the Sharks stole some kid's beloved robot and junked it," next
+    "@up on the hill where that meteor hit a few years ago." next
+    "@{pause(15)} What?" linebreak
+    "  Oh snap, that was you?" next
+    "@I'm sorry" next
+    "@I mean,{pause(15)}  I didn't do it, but I'm sorry it happened to you." end
 
 l_0xc74ad6:
-    "[06 7E 02 {e(l_0xc74a4b)}][06 08 03 {e(l_0xc74a4b)}]{counter(2)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc74a4b)}]@Ah, it's you...{pause(20)}  I've seen you in the newspaper." next
-    "@Aren't you the extraordinary girl from Twoson?" linebreak
-    "[19 02]Yes[02][19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc74b6c)} {e(l_0xc74b4a)}]" goto(l_0xc74b4a)
+    "[06 7E 02 {e(l_0xc74a4b)}][06 08 03 {e(l_0xc74a4b)}]{counter(2)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc74a4b)}]@Ah, it's you...{pause(20)}  you got your robot back." next
+    "@I'm genuinely glad to hear that." linebreak
+    "[19 02]Thanks[02][19 02]...OK[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc74b6c)} {e(l_0xc74b4a)}]" goto(l_0xc74b4a)
 
 l_0xc74b4a:
-    "@I see...{pause(20)}  Maybe you're not especially special." end
+    "@I mean...{pause(20)}  I felt bad when I heard about it." end
 
 l_0xc74b6c:
-    "@<Can I have your autograph?>{pause(20)} is an airheaded question.{pause(15)}  I won't ask you for it." end
+    "@<Can I have your robot's autograph?>{pause(20)} Haha, just joking, I know robots can't sign things. {pause(15)} ... unless?" end
 
 l_0xc74ba9:
     "@What?{pause(20)}  You want to meet our boss,{pause(10)} Frank?" next

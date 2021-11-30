@@ -96,7 +96,7 @@ l_0xc73039:
     "@Not bad!" next
 
 l_0xc730cf:
-    "[06 08 03 {e(l_0xc73039)}]{counter(2)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc73039)}]@I wanted to see you, [1C 01 1E]!" next
+    "[06 08 03 {e(l_0xc73039)}]{counter(2)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc73039)}]@Whoa! Is that your robot? Is it named <[1C 01 1E]>!?!" next
     eob
 
 l_0xc730f6:

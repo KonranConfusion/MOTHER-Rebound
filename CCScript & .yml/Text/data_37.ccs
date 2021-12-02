@@ -164,7 +164,7 @@ l_0xc843c8:
     eob
 
 l_0xc843f6:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Mysterious meteorite north of Onett still burning brightly>" end
+    call(l_0xc8437a) call(l_0xc843a7) "@<Rash of police car thefts linked to local youth gang <Sharks>" end
 
 l_0xc8442c:
     call(l_0xc8437a) call(l_0xc843a7) "@<Road to Twoson still closed>" end
@@ -179,10 +179,10 @@ l_0xc844bd:
     call(l_0xc8437a) call(l_0xc843a7) "@<Tamer of the Sharks actually a boy in a red cap!>" end
 
 l_0xc844ea:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Many citizens of Onett suffer due to crooked real estate agents>" end
+    call(l_0xc8437a) call(l_0xc843a7) "@<Many citizens of Onett suffer due to crooked real estate agents.>" end
 
 l_0xc84525:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Girl named [1C 01 1E] listed as missing in neighboring town of Twoson>" end
+    call(l_0xc8437a) call(l_0xc843a7) "@<Mother: REBOUND released to rave reviews.> Toby Fox: <They did Eartbound hacks better!>" end
 
 l_0xc8455f:
     call(l_0xc8437a) "@Yes... the Onett Times... Uhhh..." next
@@ -196,7 +196,8 @@ l_0xc84608:
     "@Someday, we'll see you there...>" end
 
 l_0xc84657:
-    call(l_0xc8437a) call(l_0xc843a7) "@<Twoson kidnap victim [1C 01 1E] rescued by local Onett hero [1C 02 01]>" end
+    call(l_0xc8437a) call(l_0xc843a7) "@<Twoson kidnap victim Paula rescued by local Onett hero Ness> {pause(20)} Wait... I apologize" next
+    "@This paper is from like five years ago lol" end
 
 l_0xc84693:
     call(l_0xc8437a) call(l_0xc843a7) "@<Situation in the town of Threed is dire>" end

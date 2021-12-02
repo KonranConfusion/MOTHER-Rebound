@@ -357,19 +357,16 @@ l_0xc65ab6:
     "@He's in the hamburger shop smiling away..." end
 
 l_0xc65ae9:
-    "[06 49 00 {e(l_0xc65b93)}][06 D2 00 {e(l_0xc65b66)}]@This town is out of control." next
-    "@The wild boys are hanging out in the town" next
-    "@and the cops have really been cracking down on everyone." next
-    "@I'm considering moving to Twoson,{pause(15)} a town in the south." end
+    "[06 49 00 {e(l_0xc65b93)}][06 D2 00 {e(l_0xc65b66)}]@I went on a trip to Summers once." next
+    "@I bought weed brownies from a lady with a cart right on the beach" next
+    "@and argued with some dude about geopolitics for three hours in a secret club of bougie philosophers." next
+    "@Five years later, I'm now a communist lesbian woman. It could happen to yo{pause(2)}o{pause(2)}o{pause(2)}u{sound(113)}{sound(114)}" end
 
 l_0xc65b66:
-    "@The wild punks have calmed down,{pause(15)} but I still don't feel very safe." end
+    "@No yeah, I'm doing great. Better than ever." end
 
 l_0xc65b93:
-    "@In this town, you're famous." next
-    "@I heard you asked a Twoson girl out on a date.{pause(20)}  What's her name?" next
-    "@You know, you have one of those baby faces that really attracts the girls," next
-    "@you lucky boy." end
+    "@I should visit Summers again. I miss my time there." end
 
 l_0xc65c01:
     "@If one of your friends becomes unconscious," next

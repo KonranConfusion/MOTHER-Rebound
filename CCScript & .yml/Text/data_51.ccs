@@ -250,16 +250,16 @@ l_0xc9a3c5:
     "  I'm going back to watching the news--it's funnier than you.{wait}{window_closetop}" eob
 
 l_0xc9a432:
-    "[06 78 02 {e(data_52.l_0xc9b20e)}]{sound(111)}{pause(40)}{window_open(1)}@OK,{pause(15)} pop quiz!{pause(30)} <A Beatles song,{pause(15)} XXXterday.>" next
+    "[06 78 02 {e(data_52.l_0xc9b20e)}]{sound(111)}{pause(40)}{window_open(1)}@OK,{pause(15)} pop quiz!{pause(30)} <Famous music vlogger,{pause(15)} Anthony FantaXXX.>" next
     "@Can you fill in the blanks?" linebreak
     "[19 02]Yes[02][19 02]No[02][1C 07 02][11]{clearline}[09 02 {e(l_0xc9a4ce)} {e(l_0xc9a49c)}]" goto(l_0xc9a49c)
 
 l_0xc9a49c:
-    "@Buzzzzt!{pause(20)}" linebreak
-    "  <A Beatles song,{pause(15)} Noterday.> Wrong!{wait}{window_closetop}" eob
+    "@That's correct!{pause(20)}  I'm impressed.{wait}{window_closetop}" eob
 
 l_0xc9a4ce:
-    "@That's correct!{pause(20)}  I'm impressed.{wait}{window_closetop}" eob
+    "@Buzzzzt!{pause(20)}" linebreak
+    "<Anthony Fantayes>? Come on, dude.{wait}{window_closetop}" eob
 
 l_0xc9a4e6:
     "{sound(111)}{pause(40)}{window_open(1)}@The sound coming from Chaos Theatre is so loud, I have to wear ear plugs." next

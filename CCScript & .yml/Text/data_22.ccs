@@ -268,25 +268,25 @@ l_0xc6919d:
     "@Mmm?{wait}{set(flag 7)}" eob
 
 l_0xc691a7:
-    "@You're annoying!{wait}{set(flag 8)}" eob
+    "@Seriously?{wait}{set(flag 8)}" eob
 
 l_0xc691b5:
-    "@Dang me!{wait}{set(flag 9)}" eob
+    "@Hahahahahahaha! No kidding! That's great! Okay! Later!{wait}{set(flag 9)}" eob
 
 l_0xc691c2:
-    "@Yeah, yeah!{wait}{set(flag 737)}{unset(flag 2)}{unset(flag 3)}{unset(flag 4)}{unset(flag 5)}{unset(flag 6)}{unset(flag 7)}{unset(flag 8)}{unset(flag 9)}" eob
+    "@MMMMMMMmmmmmhhhhhmmmmmmnnnnnngggg ha ha... {pause(25)} no, I'm good.{wait}{set(flag 737)}{unset(flag 2)}{unset(flag 3)}{unset(flag 4)}{unset(flag 5)}{unset(flag 6)}{unset(flag 7)}{unset(flag 8)}{unset(flag 9)}" eob
 
 l_0xc691e9:
-    "[06 08 00 {e(l_0xc692a0)}][06 07 00 {e(l_0xc6928a)}][06 06 00 {e(l_0xc69278)}][06 05 00 {e(l_0xc69258)}][06 04 00 {e(l_0xc69243)}][06 03 00 {e(l_0xc69230)}][06 02 00 {e(l_0xc69226)}]@Ah, ha ha!{wait}{set(flag 2)}" eob
+    "[06 08 00 {e(l_0xc692a0)}][06 07 00 {e(l_0xc6928a)}][06 06 00 {e(l_0xc69278)}][06 05 00 {e(l_0xc69258)}][06 04 00 {e(l_0xc69243)}][06 03 00 {e(l_0xc69230)}][06 02 00 {e(l_0xc69226)}]@A{pause(2)}r{pause(2)}e{pause(2)} {pause(2)}y{pause(2)}o{pause(2)}u{pause(2)} {pause(2)}r{pause(2)}e{pause(2)}a{pause(2)}d{pause(2)}y{pause(2)} {pause(2)}t{pause(2)}o{pause(2)} {pause(2)}h{pause(2)}a{pause(2)}v{pause(2)}e{pause(2)} {pause(2)}a{pause(2)} {pause(2)}b{pause(2)}a{pause(2)}d{pause(2)} {pause(2)}t{pause(2)}i{pause(2)}m{pause(2)}e{pause(2)}?{wait}{set(flag 2)}" eob
 
 l_0xc69226:
-    "@Hey, you!{wait}{set(flag 3)}" eob
+    "@lol sans undertale{wait}{set(flag 3)}" eob
 
 l_0xc69230:
-    "@Later days, pal!{wait}{set(flag 4)}" eob
+    "@Did somebody say McDonald's?{wait}{set(flag 4)}" eob
 
 l_0xc69243:
-    "@Ah!  Hah Hahhhh...{wait}{set(flag 5)}" eob
+    "@You-hou-hou-houuuu suck.{wait}{set(flag 5)}" eob
 
 l_0xc69258:
     "@It's so{pause(5)}o{pause(5)}o hot today." next
@@ -300,12 +300,11 @@ l_0xc6928a:
     "@See ya!{wait}{set(flag 8)}" eob
 
 l_0xc692a0:
-    "@Here, get yourself a juice or something..." next
-    "@*Ka-ching*" next
-    "[1D 08 32 00]{sound(116)}{open_wallet}{pause(60)}[19 10 01]{rtoarg}@([1C 02 01] got 50 dollars.){wait}{set(flag 738)}" eob goto(l_0xc692ea)
+    "@I'm gonna pay you $100 to fuck off." next
+    "[1D 08 64 00]{sound(116)}{open_wallet}{pause(60)}[19 10 01]{rtoarg}@([1C 02 01] got 100 dollars.){wait}{set(flag 738)}" eob goto(l_0xc692ea)
 
 l_0xc692ea:
-    "@Good luck, ok?" end
+    "@Leave me alone, just give me my trailer and fuck off." end
 
 l_0xc692f7:
     "{music(115)}{pause(60)}{wait}[1F 01 00]{sound(11)}{window_open(1)}@Sorry to bother you, big bro..." next

@@ -21,8 +21,9 @@ l_0xc747ed:
 
 l_0xc74802:
     "@A library is a nice place to learn stuff." next
-    "@I got a lot of info about EarthBound." next
-    "@You can borrow maps for nothing!" end
+    "@I don't check out books though." next
+    "@I just use the computer lab to post on the Starmen.net forums." next
+    "@The library is closed now though." end
 
 l_0xc7484f:
     "{counter(1)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc74802)}]@What a cute, yellow backpack.{wait}{set(flag 9)}" eob
@@ -88,7 +89,7 @@ l_0xc74c49:
     "@Don't be such a snob![03]" call(data_21.l_0xc683f4) "[1B 03 {e(data_21.l_0xc683de)}][1F 1E 01 00 06]{set(flag 40)}" eob
 
 l_0xc74c6c:
-    "@Come back after you finish EarthBound!" end
+    "@Come back after you finish Deltarune chapter 7!" end
 
 l_0xc74c85:
     "@Hello!" end
@@ -225,7 +226,8 @@ l_0xc7547d:
     "@I'd like to hear all of your stories," next
     "@but I don't want to annoy you as soon as you walk through the door." next
     "[06 7E 02 {e(l_0xc7552d)}]@I want to have a chance to get to know your little girlfriend." next
-    "@It's good to meet you,{pause(15)} [1C 02 02]." next
+    "@What? That's a robot?" next
+    "@Sorry, I didn't want to assume their gender." next
     goto(l_0xc7552d)
 
 l_0xc7552d:

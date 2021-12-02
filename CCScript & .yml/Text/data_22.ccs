@@ -373,10 +373,10 @@ l_0xc69651:
     "@I just wish I knew what <PP> was..." end
 
 l_0xc6971e:
-    "@Don't you think you get more food value out of 14 bucks worth of burgers" next
-    "@than 8 bucks worth of french fries?" next
-    "@You'll feel better and more energetic if you eat better foods." next
-    "@You know--you'll recover more health if you eat more expensive food." end
+    "@Don't you think you it's nice this place is open so late?" next
+    "@Also the french fries are only 8 dollars?" next
+    "@That seems like a low price but honestly I've never been to any other burger place." next
+    "@I have a feeling ours is the cheapest though. Maybe it's main character syndrome, I don't know... I'm such a Virgo lol" end
 
 l_0xc697ba:
     "@The information on the back of the <refreshing herb> reads as follows:" next

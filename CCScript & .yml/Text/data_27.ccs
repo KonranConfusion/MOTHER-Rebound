@@ -140,7 +140,7 @@ l_0xc732e1:
     "@All the info is there, except for the info that isn't there." next
     "@Pressing the X Button allows you to view the map at any time.{pause(15)}  How convenient!" next
     "@You know, the X Button... located near the top.{pause(15)}" linebreak
-    "  Ha ha ha." next
+    "  Ha ha ha. I love it when people check out maps because I get to break the fourth wall." next
     "[1D 0E 00 CA]" call(data_33.l_0xc7dccf) "{set(flag 511)}" end
 
 l_0xc733a7:
@@ -149,7 +149,7 @@ l_0xc733a7:
 
 l_0xc733ee:
     "@It's not necessary to return the map now." next
-    "@Come back in the year 2001 to return it." end
+    "@Come back in the year 2031 to return it." end
 
 l_0xc73420:
     "@Please return our book <Overcoming Shyness> later!" end
@@ -305,7 +305,7 @@ l_0xc73d85:
     "@Do you really agree?{pause(20)}  Let's build a strong,{pause(15)} sturdy shack." end
 
 l_0xc73db0:
-    "[06 49 00 {e(l_0xc73e7d)}][06 0D 00 {e(l_0xc73e2a)}][06 0C 00 {e(l_0xc73e2a)}]@I had a dream about you,{pause(20)} and you were traveling with a cute girl." next
+    "[06 49 00 {e(l_0xc73e7d)}][06 0D 00 {e(l_0xc73e2a)}][06 0C 00 {e(l_0xc73e2a)}]@I had a dream about you,{pause(20)} and you were traveling with a cool robot." next
     "@If the dream comes true,{pause(15)} say hi to her for me." next
     "@After all,{pause(15)} I'm single..." end
 
@@ -313,7 +313,7 @@ l_0xc73e2a:
     "{counter(1)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc73ee9)}]{counter(2)}" call(data_33.l_0xc7dc7f) "[1B 03 {e(l_0xc73e4b)}]@Love!" end
 
 l_0xc73e4b:
-    "@I maybe wrong,{pause(15)} but I feel like you're being accompanied by a cute girl." end
+    "@I maybe wrong,{pause(15)} but I feel like you're being accompanied by a cute robot. {pause(15)} I mean... just a regular robot." end
 
 l_0xc73e7d:
     "@You...{pause(20)} seem to be gaining self confidence or something..." next

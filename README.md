@@ -5,6 +5,6 @@ A hack by Team Psionics.
 ___________________________________________________________________
 A ROM hack of EarthBound that takes place after the events of EarthBound.
 ___________________________________________________________________
-By Mr. Ness, Sbuppy, PaintBucketCard, Atlantixa, IvyWolf, EGO_2, Confused, AvoidThisLloyd, and Minty.
+By Mr. Ness, Niiue, Sbuppy, PaintBucketCard, Atlantixa, IvyWolf, EGO_2, Cass, Confused, AvoidThisLloyd, and Minty.
 ___________________________________________________________________
 (I will remove NessTheGit if they pull this shit again)
